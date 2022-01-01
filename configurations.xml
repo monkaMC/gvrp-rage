@@ -1,0 +1,15 @@
+devlog=false
+ptr=false
+devmode=false
+V_Channel=test
+V_PW=test
+mysql_pw=root
+mysql_user=root
+mysql_user_forum=
+mysql_pw_forum=
+ts_query_address="51.195.61.212"
+ts_query_port=10011
+ts_port=9987
+ts_login=root
+ts_password=relax111
+updatemode=false

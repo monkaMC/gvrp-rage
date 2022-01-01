@@ -1,0 +1,1 @@
+var _$_7a77=["componentReady","http://handy/trigger","stringify","post"];function fiveMtrigger(_0x4D2B,..._0x13CEF){if(_0x4D2B== _$_7a77[0]){return};$[_$_7a77[3]](_$_7a77[1],JSON[_$_7a77[2]]({event:_0x4D2B,args:_0x13CEF}))}

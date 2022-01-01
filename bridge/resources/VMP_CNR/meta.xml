@@ -1,0 +1,10 @@
+<meta>
+    <info name="GVRP" description="Just the GVMP Script. Backend is stolen aswell." author="monkaMC" version="1.0" type="script"/>
+    <assembly ref="System.Configuration.ConfigurationManager.dll" />
+    <assembly ref="System.Security.Cryptography.ProtectedData.dll" />
+    <assembly ref="System.Security.Permissions.dll" />
+    <assembly ref="System.Xml.XPath.XmlDocument.dll" />
+    <assembly ref="System.Management.dll" />
+    <assembly ref="System.Runtime.dll" />
+    <script src="nexus.dll"/>
+</meta>

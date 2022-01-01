@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\GVRP.deps.json
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\GVRP.runtimeconfig.json
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\GVRP.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\GVRP.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp3.1\GVRP.pdb
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.dll
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.pdb
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\x86\Release\netcoreapp3.1\GVRP.csprojAssemblyReference.cache

@@ -1,0 +1,83 @@
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\GVRP.deps.json
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.json
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.dev.json
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\GVRP.dll
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\d4nee\Desktop\Development\GvmpMaster\bin\Release\netcoreapp2.0\Bootstrapper.dll
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.AssemblyInfoInputs.cache
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.AssemblyInfo.cs
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.csproj.CoreCompileInputs.cache
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.csproj.CopyComplete
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.dll
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.genruntimeconfig.cache
+C:\Users\d4nee\Desktop\Development\GvmpMaster\obj\Release\netcoreapp2.0\GVRP.csprojAssemblyReference.cache
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\GVRP.deps.json
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.json
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.dev.json
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\GVRP.dll
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\daneg\Desktop\GvmpMasterServer\bin\Release\netcoreapp2.0\Bootstrapper.dll
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.csprojAssemblyReference.cache
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.AssemblyInfoInputs.cache
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.AssemblyInfo.cs
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.csproj.CoreCompileInputs.cache
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.csproj.CopyComplete
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.dll
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\daneg\Desktop\GvmpMasterServer\obj\Release\netcoreapp2.0\GVRP.genruntimeconfig.cache
+C:\Users\daneg\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.AssemblyInfoInputs.cache
+C:\Users\daneg\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.AssemblyInfo.cs
+C:\Users\daneg\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csproj.CoreCompileInputs.cache
+C:\Users\daneg\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.dll
+C:\Users\daneg\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.deps.json
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.json
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.dev.json
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.dll
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\daneg\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Bootstrapper.dll
+C:\Users\daneg\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csproj.CopyComplete
+C:\Users\daneg\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.genruntimeconfig.cache
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.deps.json
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.json
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.runtimeconfig.dev.json
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.dll
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\paypa\Desktop\GVRP\GVRP\bin\Release\netcoreapp2.0\Bootstrapper.dll
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.AssemblyInfoInputs.cache
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.AssemblyInfo.cs
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csproj.CoreCompileInputs.cache
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csproj.CopyComplete
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.dll
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.genruntimeconfig.cache
+C:\Users\paypa\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\GVRP.deps.json
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\GVRP.runtimeconfig.json
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\GVRP.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\GVRP.dll
+C:\Users\Administrator\Desktop\GVRP Rage\bridge\resources\GVRP\netcoreapp2.0\GVRP.pdb
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.dll
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.pdb
+C:\Users\Administrator\Desktop\GVRP\GVRP\obj\Release\netcoreapp2.0\GVRP.genruntimeconfig.cache

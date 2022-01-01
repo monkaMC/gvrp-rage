@@ -1,0 +1,1213 @@
+
+==================[28.12.2021 21:15:21]==================
+System.BadImageFormatException: Could not load file or assembly 'E:\Hauptserver_new\Server\bridge\resources\VMP_CNR\VMP_CNR.dll'. Format of the executable (.exe) or library (.dll) is invalid.
+File name: 'E:\Hauptserver_new\Server\bridge\resources\VMP_CNR\VMP_CNR.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 21:55:34]==================
+System.BadImageFormatException: Could not load file or assembly 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\VMP_CNR.dll'. Format of the executable (.exe) or library (.dll) is invalid.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\VMP_CNR.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 21:59:20]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\VMP_CNR.dll'. Das System kann die angegebene Datei nicht finden.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\VMP_CNR.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 22:00:31]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\VMP_CNR.dll'. Das System kann die angegebene Datei nicht finden.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\VMP_CNR.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 22:00:55]==================
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Jamie\Desktop\GVRP Rage\configurations.xml'.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\configurations.xml'
+   at SafeFileHandle System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+=========================================================
+
+==================[28.12.2021 22:01:36]==================
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Jamie\Desktop\GVRP Rage\configurations.xml'.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\configurations.xml'
+   at SafeFileHandle System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+=========================================================
+
+==================[28.12.2021 22:01:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:01:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:01:47]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:01:47]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:01:47]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:04:36]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:04:36]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:04:36]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:04:36]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:04:36]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:06:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:06:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:06:23]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:06:23]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:06:23]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:14:41]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:14:41]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:14:41]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:14:41]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:16:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:16:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:16:42]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:16:42]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:16:42]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:17:00]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:17:00]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:17:00]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:17:00]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:18:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:18:46]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:18:46]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:18:46]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:18:46]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:18:50]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:18:50]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:18:50]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:18:50]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:24:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:24:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Numerics.Vectors'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:24:07]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Numerics.Vectors.dll'. Das System kann die angegebene Datei nicht finden.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Numerics.Vectors.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 22:24:07]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Collections'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:24:07]==================
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at RuntimeType[] System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at Type[] System.Reflection.Assembly.GetTypes()
+=========================================================
+
+==================[28.12.2021 22:24:42]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool GTANetworkInternals.CommandHandler.Parse(Client sender, string rawCommand) in C:\Users\Adam\Documents\Git\comp-layer2\BootstrapperNC\Handlers\RemoteEventHandler.cs:line 162
+=========================================================
+
+==================[28.12.2021 22:38:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Runtime'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:38:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Numerics.Vectors'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:38:42]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Numerics.Vectors.dll'. Das System kann die angegebene Datei nicht finden.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Numerics.Vectors.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 22:38:42]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Collections'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:38:43]==================
+System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at RuntimeType[] System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at Type[] System.Reflection.Assembly.GetTypes()
+=========================================================
+
+==================[28.12.2021 22:41:58]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:41:59]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:41:59]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:41:59]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:41:59]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:42:23]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:42:23]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:42:23]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:42:23]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'. Das System kann die angegebene Datei nicht finden.
+File name: 'System.Security.Permissions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51'
+   at MySql.Data.MySqlClient.MySqlConnection.AssertPermissions()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+
+
+=========================================================
+
+==================[28.12.2021 22:44:14]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:44:15]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:44:15]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Configuration.ConfigurationManager'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at string string.Substring(int startIndex, int length)
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Management'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Management.dll'. Das System kann die angegebene Datei nicht finden.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Management.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+   at object System.Reflection.RuntimePropertyInfo.GetValue(object obj, object[] index)
+   at void MySql.Data.MySqlClient.NativeDriver.SetConnectAttrs()
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(bool reset)
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   at void MySql.Data.MySqlClient.Driver.Open()
+   at Driver MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+   at object System.Reflection.RuntimePropertyInfo.GetValue(object obj, object[] index)
+   at void MySql.Data.MySqlClient.NativeDriver.SetConnectAttrs()
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(bool reset)
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   at void MySql.Data.MySqlClient.Driver.Open()
+   at Driver MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at Driver MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:44:17]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at MySql.Data.MySqlClient.NativeDriver.SetConnectAttrs()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at string string.Substring(int startIndex, int length)
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Management'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.IO.FileNotFoundException: Could not load file or assembly 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Management.dll'. Das System kann die angegebene Datei nicht finden.
+File name: 'C:\Users\Jamie\Desktop\GVRP Rage\bridge\resources\VMP_CNR\System.Management.dll'
+   at void System.Runtime.Loader.AssemblyLoadContext.LoadFromPath(IntPtr ptrNativeAssemblyLoadContext, string ilPath, string niPath, ObjectHandleOnStack retAssembly)
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.LoadFromAssemblyPath(string assemblyPath)
+
+
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+   at object System.Reflection.RuntimePropertyInfo.GetValue(object obj, object[] index)
+   at void MySql.Data.MySqlClient.NativeDriver.SetConnectAttrs()
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(bool reset)
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   at void MySql.Data.MySqlClient.Driver.Open()
+   at Driver MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at object RuntimeMethodHandle.InvokeMethod(object target, object[] arguments, Signature sig, bool constructor)
+   at object System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(object obj, object[] parameters, object[] arguments)
+   at object System.Reflection.RuntimePropertyInfo.GetValue(object obj, object[] index)
+   at void MySql.Data.MySqlClient.NativeDriver.SetConnectAttrs()
+   at void MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(bool reset)
+   at void MySql.Data.MySqlClient.NativeDriver.Open()
+   at void MySql.Data.MySqlClient.Driver.Open()
+   at Driver MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at Driver MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at Driver MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:44:22]==================
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.IO.FileNotFoundException: Could not load file or assembly 'System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. Das System kann die angegebene Datei nicht finden.
+   at string MySql.Data.MySqlClient.MySqlConnectAttrs.get_OSDetails()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at MySql.Data.MySqlClient.NativeDriver.SetConnectAttrs()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+=========================================================
+
+==================[28.12.2021 22:46:25]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:46:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:46:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Configuration.ConfigurationManager'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:46:26]==================
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at string string.Substring(int startIndex, int length)
+=========================================================
+
+==================[28.12.2021 22:46:26]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Management'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:46:26]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+=========================================================
+
+==================[28.12.2021 22:46:26]==================
+System.TypeInitializationException: The type initializer for 'System.Management.ManagementPath' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+   at object System.Management.MTAHelper.CreateInMTA(Type type)
+   at IWbemPath System.Management.ManagementPath.CreateWbemPath(string path)
+   at new System.Management.ManagementPath(string path)
+   at static System.Management.ManagementPath()
+   --- End of inner exception stack trace ---
+   at ManagementScope System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+=========================================================
+
+==================[28.12.2021 22:46:27]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 22:46:27]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 22:46:27]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 22:46:27]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:46:27]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:46:27]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 22:46:32]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.socialbans' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 22:46:32]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.socialbans' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 22:46:32]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.socialbans' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 22:46:32]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:46:32]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:46:32]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.socialbans' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 22:50:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:50:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:50:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Configuration.ConfigurationManager'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at string string.Substring(int startIndex, int length)
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Management'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+System.TypeInitializationException: The type initializer for 'System.Management.ManagementPath' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+   at object System.Management.MTAHelper.CreateInMTA(Type type)
+   at IWbemPath System.Management.ManagementPath.CreateWbemPath(string path)
+   at new System.Management.ManagementPath(string path)
+   at static System.Management.ManagementPath()
+   --- End of inner exception stack trace ---
+   at ManagementScope System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 22:50:48]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'MySql.Data'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Security.Permissions'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Configuration.ConfigurationManager'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at string string.Substring(int startIndex, int length)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.IO.FileNotFoundException: Could not load the specified file.
+File name: 'System.Management'
+   at Assembly System.Runtime.Loader.AssemblyLoadContext.ResolveUsingEvent(AssemblyName assemblyName)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.TypeInitializationException: The type initializer for 'System.Management.ManagementPath' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+   at object System.Management.MTAHelper.CreateInMTA(Type type)
+   at IWbemPath System.Management.ManagementPath.CreateWbemPath(string path)
+   at new System.Management.ManagementPath(string path)
+   at static System.Management.ManagementPath()
+   --- End of inner exception stack trace ---
+   at ManagementScope System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 23:05:47]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 23:05:48]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 23:05:48]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.team_spawn' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 23:12:21]==================
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at string string.Substring(int startIndex, int length)
+=========================================================
+
+==================[28.12.2021 23:12:21]==================
+System.TypeInitializationException: The type initializer for 'System.Management.ManagementPath' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+   at object System.Management.MTAHelper.CreateInMTA(Type type)
+   at IWbemPath System.Management.ManagementPath.CreateWbemPath(string path)
+   at new System.Management.ManagementPath(string path)
+   at static System.Management.ManagementPath()
+   --- End of inner exception stack trace ---
+   at ManagementScope System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at string string.Substring(int startIndex, int length)
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+System.TypeInitializationException: The type initializer for 'System.Management.ManagementPath' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at bool System.Management.MTAHelper.IsNoContextMTA()
+   at object System.Management.MTAHelper.CreateInMTA(Type type)
+   at IWbemPath System.Management.ManagementPath.CreateWbemPath(string path)
+   at new System.Management.ManagementPath(string path)
+   at static System.Management.ManagementPath()
+   --- End of inner exception stack trace ---
+   at ManagementScope System.Management.ManagementScope._Clone(ManagementScope scope, IdentifierChangedEventHandler handler)
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_customdata' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_customdata' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_customdata' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 23:12:24]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_customdata' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 23:12:26]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at new GVRP.Module.Items.Item(uint id, int durability, int amount, Dictionary<string, object> data) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\Items\Types\Item.cs:line 32
+=========================================================
+
+==================[28.12.2021 23:12:27]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at new GVRP.Module.Items.Item(uint id, int durability, int amount, Dictionary<string, object> data) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\Items\Types\Item.cs:line 32
+=========================================================
+
+==================[28.12.2021 23:12:27]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at new GVRP.Module.Items.Item(uint id, int durability, int amount, Dictionary<string, object> data) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\Items\Types\Item.cs:line 32
+=========================================================
+
+==================[28.12.2021 23:12:27]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TLoadable GVRP.Module.SqlModule<T, TLoadable, TId>.get_Item(TId key) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\SqlModule.cs:line 43
+=========================================================
+
+==================[28.12.2021 23:12:27]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TLoadable GVRP.Module.SqlModule<T, TLoadable, TId>.get_Item(TId key) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\SqlModule.cs:line 43
+=========================================================
+
+==================[28.12.2021 23:12:28]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at void GVRP.Module.Business.BusinessPlayerModule.OnPlayerLoadData(DbPlayer dbPlayer, MySqlDataReader reader) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\Business\BusinessPlayer.cs:line 17
+=========================================================
+
+==================[28.12.2021 23:12:28]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_eventstate' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 23:12:28]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_eventstate' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 23:12:28]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_eventstate' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 23:12:28]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 23:12:28]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 23:12:28]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_eventstate' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 23:12:29]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at new GVRP.Module.Items.Item(uint id, int durability, int amount, Dictionary<string, object> data) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\Items\Types\Item.cs:line 32
+=========================================================
+
+==================[28.12.2021 23:12:29]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TLoadable GVRP.Module.SqlModule<T, TLoadable, TId>.get_Item(TId key) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\SqlModule.cs:line 43
+=========================================================
+
+==================[28.12.2021 23:12:29]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TLoadable GVRP.Module.SqlModule<T, TLoadable, TId>.get_Item(TId key) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\SqlModule.cs:line 43
+=========================================================
+
+==================[28.12.2021 23:12:29]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_rights' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 23:12:29]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_rights' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 23:12:29]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_rights' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_rights' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at TLoadable GVRP.Module.SqlModule<T, TLoadable, TId>.get_Item(TId key) in C:\Users\Jamie\Desktop\GVRP Rage\Projektmappe\Module\SqlModule.cs:line 43
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_to_storage' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_to_storage' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_to_storage' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_to_storage' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at TSource System.Linq.Enumerable.TryGetFirst<TSource>(IEnumerable<TSource> source, Func<TSource, bool> predicate, out bool found)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_ownedclothes' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_ownedclothes' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_ownedclothes' doesn't exist
+   at MySqlPacket MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at int MySql.Data.MySqlClient.NativeDriver.GetResult(ref int affectedRow, ref long insertedId)
+   at ResultSet MySql.Data.MySqlClient.Driver.NextResult(int statementId, bool force)
+   at bool MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethod(RuntimeModule module, int methodToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount)
+   at RuntimeMethodHandleInternal ModuleHandle.ResolveMethodHandleInternalCore(RuntimeModule module, int methodToken, IntPtr[] typeInstantiationContext, int typeInstCount, IntPtr[] methodInstantiationContext, int methodInstCount)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+System.TypeLoadException: Could not load type 'System.Drawing.ToolboxBitmapAttribute' from assembly 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'.
+   at void ModuleHandle.ResolveType(RuntimeModule module, int typeToken, IntPtr* typeInstArgs, int typeInstCount, IntPtr* methodInstArgs, int methodInstCount, ObjectHandleOnStack type)
+   at RuntimeType ModuleHandle.ResolveTypeHandleInternal(RuntimeModule module, int typeToken, RuntimeTypeHandle[] typeInstantiationContext, RuntimeTypeHandle[] methodInstantiationContext)
+=========================================================
+
+==================[28.12.2021 23:12:30]==================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'gvrp.player_ownedclothes' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+=========================================================

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GVRP": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}

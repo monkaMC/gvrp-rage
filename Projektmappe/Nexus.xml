@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GVRP</name>
+    </assembly>
+    <members>
+        <member name="M:GVRP.Module.Events.Event.UpdateActive">
+            Setzt Active wenn Datum größer als Start und kleiner als End Datum ist
+        </member>
+        <member name="T:GVRP.Module.Helper.ResetWhitelistData">
+            <summary>
+            Von Gameserver ausgehendes Paket für das Löschen eines Spielers aus der Launcher-Whitelist
+            </summary>
+        </member>
+        <member name="T:GVRP.Module.Helper.ResetWhitelistDataAnswer">
+            <summary>
+            Von API Ausgehendes Paket nach Löschen eines Spielers aus der Launcher Whitelist
+            </summary>
+        </member>
+        <member name="T:GVRP.Module.Helper.WhitelistDataAnswer">
+            <summary>
+            Von API Ausgehendes Paket nach Whitelist Statis Abfrage
+            </summary>
+        </member>
+        <member name="M:GVRP.Module.Players.PlayerMoney.TakeAnyMoney(GVRP.Module.Players.Db.DbPlayer,System.Int32,System.Boolean)">
+             Takes an specific amount of money from an player
+            
+             @param amount an positive number that represents the amount of money to take from the player
+            
+             @return true if enough money was available, else false
+        </member>
+    </members>
+</doc>
